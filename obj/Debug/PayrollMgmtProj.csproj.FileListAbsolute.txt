@@ -1,0 +1,20 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PayrollMgmtProj.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PayrollMgmtProj.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PayrollMgmtProj.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Bson.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Driver.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Bson.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\MongoDB.Driver.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PayrollMgmtProj.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PayrollMgmtProj.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PayrollMgmtProj.pdb
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\bin\Debug\PayrollMgmtProj.exe.config
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\obj\Debug\PayrollMgmtProj.exe
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\obj\Debug\PayrollMgmtProj.pdb
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\bin\Debug\PayrollMgmtProj.exe
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\bin\Debug\PayrollMgmtProj.pdb
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\bin\Debug\MongoDB.Bson.dll
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\bin\Debug\MongoDB.Driver.dll
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\bin\Debug\MongoDB.Bson.xml
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\bin\Debug\MongoDB.Driver.xml
+D:\Git\MongDBEmpMgmtSample\MongDBEmpMgmtSample\obj\Debug\PayrollMgmtProj.csprojResolveAssemblyReference.cache
